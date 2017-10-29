@@ -6,7 +6,7 @@ import { Text, AppRegistry } from 'react-native';
 
 // Create a component
 const App = () => (
-  <Text>Some Text</Text>
+  <Text>Some Super text and super logn text</Text>
 );
 
 // Render it to the device
