@@ -7,7 +7,7 @@ const CardSection = (props) => (
     </View>
 );
 
-export default CardSection;
+export { CardSection };
 
 const styles = StyleSheet.create({
     container: {
